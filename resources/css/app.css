@@ -1,3 +1,5 @@
+// Updated font theme and Tailwind import configuration
+
 @import 'tailwindcss';
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
